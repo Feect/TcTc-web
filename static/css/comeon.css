@@ -14,3 +14,7 @@
 .comeon-content h3{
     text-align: left;
 }
+.comeon-content .last ul,li{
+    list-style: none;
+    padding-top: 20px;
+}
